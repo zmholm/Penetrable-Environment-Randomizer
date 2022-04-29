@@ -1,0 +1,11 @@
+
+Penetrable Environment Randomizer
+Copyright 2022 Zane Holmgren.
+
+This product includes software developed at
+Dakota State University (https://dsu.edu/).
+
+This software contains code derived from the VMware,
+Inc. pyvCloud module, and code derived from 
+PySimpleGUI module. This software was compiled using
+PySimpleGUI-exemaker.

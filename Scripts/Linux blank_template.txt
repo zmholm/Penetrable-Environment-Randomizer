@@ -1,0 +1,6 @@
+#!/bin/sh
+if [ "$1" = "precustomization" ]; then
+echo Do Precustomization tasks
+elif [ "$1" = "postcustomization" ]; then
+echo Do Postcustomization tasks
+fi

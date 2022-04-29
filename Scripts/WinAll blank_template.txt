@@ -1,0 +1,7 @@
+@echo off
+if "%1%" == "precustomization" (
+echo Do precustomization tasks
+)
+else if "%1%" == "postcustomization" (
+echo Do postcustomization tasks
+)
